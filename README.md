@@ -6,12 +6,12 @@ A Java GUI-based desktop application to manage core operations in a hospital or 
 
 The system is divided into six functional modules:
 
-- ** Patient Registration** – Add new patient records with personal details.
-- ** Appointment Scheduling** – Book appointments for patients with specific doctors.
-- ** Electronic Health Records (EHR)** – Store diagnosis, prescriptions, and medical notes.
-- ** Billing and Invoicing** – Generate and print patient invoices based on services.
-- ** Inventory Management** – Manage medical stock and expiry tracking.
-- ** Staff Management** – Maintain staff schedules and roles (Doctor/Nurse/Admin).
+-  Patient Registration – Add new patient records with personal details.
+-  Appointment Scheduling – Book appointments for patients with specific doctors.
+-  Electronic Health Records (EHR) – Store diagnosis, prescriptions, and medical notes.
+-  Billing and Invoicing – Generate and print patient invoices based on services.
+-  Inventory Management – Manage medical stock and expiry tracking.
+-  Staff Management – Maintain staff schedules and roles (Doctor/Nurse/Admin).
 
 
 ##  Technologies Used
